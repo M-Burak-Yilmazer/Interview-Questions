@@ -25,7 +25,6 @@ SOLUTION
 │   ├── App.js
 │   ├── components
 │   │   ├── Question.jsx
-│   │   ├── Header.jsx
 │   │   └── InterviewAccord.jsx
 │   ├── helper
 │   │   ├── data.js
@@ -73,11 +72,8 @@ Build a Interview Accord App using ReactJS.
 ## Notes
 
 - You can add additional functionalitiesto your app.
-- You can use [template](./template)
 
 ## Demo
-
-<a href="https://interviewaccord.vercel.app/" target="_blank">React Interview Accord Vercel</a>
-<a href="https://interview-accordion.netlify.app/" target="_blank">React Interview Accord Netlify</a>
+  <a href="https://interviewaccord.vercel.app/" target="_blank">React Interview Accord</a>
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**

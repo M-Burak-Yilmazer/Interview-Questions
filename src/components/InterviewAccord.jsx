@@ -1,9 +1,7 @@
+import Ouestion from "./Question";
 
+const InterviewAccord = ({ data }) => {
+  return <div className="row">{data && <Ouestion data={data} />}</div>;
+};
 
-const InterviewAccord = () => {
-  return (
-    <div>InterviewAccord</div>
-  )
-}
-
-export default InterviewAccord
+export default InterviewAccord;

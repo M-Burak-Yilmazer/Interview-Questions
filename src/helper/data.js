@@ -43,7 +43,7 @@ const questions = {
         "React Router is a powerful routing library built on top of React, which helps in adding new screens and flows to the application. This keeps the URL in sync with data that’s being displayed on the web page. It maintains a standardized structure and behavior and is used for developing single page web applications. React Router has a simple API.",
     },
   ],
-  javaScript: [
+  javascript: [
     {
       id: 1,
       question: "What is JavaScript?",
@@ -91,7 +91,7 @@ const questions = {
         "The easy way is using Object.keys(). This will return an array of given object’s own enumerable properties.If we want all properties, even not-enumerable properties also, we can use Object.getOwnPropertyNames().",
     },
   ],
-  typeScript: [
+  typescript: [
     {
       id: 1,
       question: "What is Typescript?",
@@ -116,7 +116,6 @@ const questions = {
       answer:
         "Objects are dictionary-like collections of keys and values. The keys have to be unique. They are similar to arrays and are also sometimes called associative arrays. However, an array uses numbers to index the values, whereas an object allows you to use any other type as the key.",
     },
-    
   ],
 };
 export default questions;
